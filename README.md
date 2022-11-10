@@ -1,2 +1,2 @@
 # tp8
-DC 477 -- Tiny Project 8
+DTC 477 -- Tiny Project 8
